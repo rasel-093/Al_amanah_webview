@@ -103,7 +103,7 @@ fun WebViewLoader(url: String, padding: PaddingValues) {
                         .fillMaxWidth(),
                     letterSpacing = 3.sp,
                     style = MaterialTheme.typography.bodyLarge,
-                    color = Color(0xFF4CAF50) //MaterialTheme.colorScheme.background,
+                    color = Color(0xFF29b4de) //MaterialTheme.colorScheme.background,
                 )
                 //.........................Spacer
                 Spacer(modifier = Modifier.height(10.dp))
